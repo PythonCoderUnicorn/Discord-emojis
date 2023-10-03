@@ -13,5 +13,5 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 
 | `:name:`      | description                                 |
 |---------------|---------------------------------------------|
-| `:afk:`       | <img height=128 src='./emojis/afk'>         |
+| `:afk:`       | ![](assets/emojis/afk.png)                  |  
 |               |                                             |
