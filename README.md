@@ -26,7 +26,7 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 | `:forensics:`             | ![](assets/emojis/forensics.png)            |
 | `:ftw:`                   | ![](assets/emojis/ftw.png)                  |
 | `:github:`                | ![](assets/emojis/github.png)               |
-| `good_luck:`              | ![](assets/emojis/good_luck.png)            |
+| `:good_luck:`             | ![](assets/emojis/good_luck.png)            |
 | `:google:`                | ![](assets/emojis/google.png)               |
 | `:got_flag:`              | ![](assets/emojis/got_flag.png)             |
 | `:hacking:`               | ![](assets/emojis/hacking.png)              |
@@ -46,5 +46,6 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 | `:yes:`                   | ![](assets/emojis/yes.png)                  |
 | `:you_can:`               | ![](assets/emojis/you_can.png)              |
 | `:yt:`                    | ![](assets/emojis/yt.png)                   |
+| `:docker:`                | ![](assets/emojis/docker.png)               |
 
 
