@@ -47,5 +47,6 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 | `:you_can:`               | ![](assets/emojis/you_can.png)              |
 | `:yt:`                    | ![](assets/emojis/yt.png)                   |
 | `:docker:`                | ![](assets/emojis/docker.png)               |
+| `:hint:`                  | ![](assets/emojis/hint.png)                 |
 
 
