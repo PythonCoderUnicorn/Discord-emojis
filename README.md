@@ -50,5 +50,7 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 | `:hint:`                  | ![](assets/emojis/hint.png)                 |
 | `:metasploit:`            | ![](assets/emojis/metasploit.png)           |
 | `:nmap:`                  | ![](assets/emojis/nmap.png)                 |
+| `:sqlmap:`                | ![](assets/emojis/sqlmap.png)               |
+| `:cewl:`                  | ![](assets/emojis/cewl.png)                 |
 
 
