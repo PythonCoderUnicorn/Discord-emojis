@@ -54,5 +54,7 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 | `:cewl:`                  | ![](assets/emojis/cewl.png)                 |
 | `:foxyproxy:`             | ![](assets/emojis/foxyproxy.png)            |
 | `:jtr:`                   | ![](assets/emojis/jtr.png)                  |
+| `:hydra:`                 | ![](assets/emojis/hydra.png)                |
+| `:hashcat:`               | ![](assets/emojis/hashcat.png)              |
 
 
