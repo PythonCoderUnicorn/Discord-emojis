@@ -1,6 +1,6 @@
 # Discord-emojis
 
-<img height=300 align=right src='./assets/discord.png'>
+<img height='300' align=right src='./assets/discord.png'>
 
 A repo of Cyber Security / Hacking themed emojis for the Discord app.
 
