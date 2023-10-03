@@ -49,5 +49,6 @@ A repo of Cyber Security / Hacking themed emojis for the Discord app.
 | `:docker:`                | ![](assets/emojis/docker.png)               |
 | `:hint:`                  | ![](assets/emojis/hint.png)                 |
 | `:metasploit:`            | ![](assets/emojis/metasploit.png)           |
+| `:nmap:`                  | ![](assets/emojis/nmap.png)                 |
 
 
